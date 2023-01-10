@@ -7,6 +7,9 @@ touch docker.sh
 nano docker.sh
 ```
 ```
+#!/bin/sh
+```
+```
 docker restart
 ```
 ```
